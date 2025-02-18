@@ -253,3 +253,4 @@ Run it on a weekend (Saturday/Sunday), and it will be available.
 
 ---
 
+[Next read : Real world use case](https://github.com/abhishekmalvadkar/spring-conditional-in-action/blob/master/RealUseCase.md)
